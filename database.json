@@ -1,0 +1,35 @@
+[
+    {
+        "username": "ahmed",
+        "password": "12345678ahmed",
+        "phone": "010",
+        "email": "ahmed@gmail.com",
+        "gender": "M",
+        "age": 20,
+        "city": "21",
+        "balance": 19000.0,
+        "ID": 1
+    },
+    {
+        "username": "mohamed",
+        "password": "12345678mohamed",
+        "phone": "010",
+        "email": "mohamed@gmail.com",
+        "gender": "M",
+        "age": 20,
+        "city": "cairo",
+        "balance": 38500.0,
+        "ID": 2
+    },
+    {
+        "username": "sayed",
+        "password": "12345678sayed",
+        "phone": "010",
+        "email": "sayed@gmail.com",
+        "gender": "M",
+        "age": 20,
+        "city": "cairo",
+        "balance": 1500.0,
+        "ID": 3
+    }
+]
